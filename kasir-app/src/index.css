@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: "Public Sans", sans-serif;
+}
+.navbar {
+  background-color: #22668a;
+}
+
+.aaa {
+  background-color: tomato;
+  color: white;
+}
